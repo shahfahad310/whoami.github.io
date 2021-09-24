@@ -28,7 +28,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  
 
 # --- Logo --- #
 
@@ -50,13 +50,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kingshahfahad6@gmail.com"
-  facebook: shah fahad
-  github: whoami.github.io
-  twitter: shahfahad
-  patreon: DeanAttali
-  youtube: whoami
-  instagram: beingshahfahad1
-#  linkedin: daattali
+  github: "https://github.com/shahfahad310"
+  twitter: "https://twitter.com/Shahfahadking1"
+  youtube: "https://www.youtube.com/channel/UCbSwuvTzrjlk59egbcD0ERQ"
+  instagram: "https://www.instagram.com/beingsshahfahad1"
+  linkedin: "https://www.linkedin.com/in/shah-fahad-8192001b9"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -99,7 +97,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "hacking,penetesting,hackthebox,shahfahad,whoamigithub,hacktheboxwalkthrough,hackingartciles,hacker,bughunting,htb,tryhackme,ctf"
 
 # --- Colours / background image --- #
 
