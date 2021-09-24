@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A noob Hacker in search of Exploit
 ---
+Hey my name is shah fahad i am a student of bahria university islamabad. I am a infosc enthusiast a self researcher in the file of cybersecurity.
+i like penetration testing , ctfs , hacking , bug hunting and bloging etc
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
